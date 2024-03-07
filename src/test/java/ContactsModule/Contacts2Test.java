@@ -7,6 +7,6 @@ public class Contacts2Test {
 	@Test
 	public void test2Test()
 	{
-		
+		System.out.println("---------");
 	}
 }
