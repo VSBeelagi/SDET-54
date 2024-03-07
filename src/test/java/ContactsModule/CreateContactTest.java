@@ -8,5 +8,29 @@ public class CreateContactTest {
 	public void createContTest()
 	{
 		System.out.println("-- contacts created --");
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
 	}
 }
