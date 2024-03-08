@@ -107,7 +107,7 @@
         <version>3.2.5</version>
         <configuration>
           <suiteXmlFiles>
-            <suiteXmlFile>SmokeSuite.xml</suiteXmlFile>
+            <suiteXmlFile>RegressionSuite.xml</suiteXmlFile>
           </suiteXmlFiles>
         </configuration>
       </plugin>

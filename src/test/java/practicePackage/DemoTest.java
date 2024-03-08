@@ -9,6 +9,7 @@ public class DemoTest {
 	{
 		System.out.println("-- testscript-5 --");
 		
+		System.out.println("-- testscript-5 --");
 	}
 	
 	@Test(groups = "smoke")
